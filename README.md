@@ -110,4 +110,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm Rahul Sharma ,  I’m an IT professional and passionate about solve business probleam and with data enjoyable and engaging!
+Hi there! I'm Rahul Sharma ,  I’m an IT professional and passionate about solve business probleam and enjoyable and engaging with data !
